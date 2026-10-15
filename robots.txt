@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://5dogsproperties.github.io/ok-landlord-hub/sitemap.xml
